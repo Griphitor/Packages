@@ -1,0 +1,9 @@
+{
+  "name": "Example",
+  "description": "Example package for griphitor.",
+  "author": {
+    "name": "oxmc",
+    "email": "oxmc7769@gmail.com"
+  },
+  "main": "index.js"
+}
