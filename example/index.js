@@ -1,7 +1,13 @@
 /* Example package for griphitor */
 
 /* Variables */
-const message = "Hello from griphitor!";
+const notifbody = {
+  title: "Griphitor example package",
+  message: "Hello from griphitor!"
+};
 
-/* Notification */
-gnotif("Package", message);
+/* Notification in griphitor */
+gnotif(notifbody);
+
+/* Notification in system */
+snotif(notifbody);
