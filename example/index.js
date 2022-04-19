@@ -1,6 +1,6 @@
 /* Example package for griphitor */
 
-/* Configure package */
+/* Variables */
 const message = "Hello from griphitor!";
 
 /* Notification */
